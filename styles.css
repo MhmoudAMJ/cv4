@@ -9,7 +9,9 @@
   display: inline-block;
 
 }
-
+#refreshMe{
+  font-size: 1.5rem;
+}
 body {
   background-color: #393E46;
 }
